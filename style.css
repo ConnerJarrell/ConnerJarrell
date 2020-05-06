@@ -1,0 +1,21 @@
+h1 {
+    margin-bottom: 15px;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    background-color: black;
+}
+
+.container {
+    background-color: grey;
+}
+
+#contact-info {
+    background-color: grey;
+    float: right;
+}
+
+#bio {
+    background-color: grey;
+    float: left;
+}
